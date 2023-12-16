@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mesure Glycemie</string>
+    <string name="title">Mesure de niveau de Glycémie</string>
+    <string name="consultation">CONSULTATION\n</string>
+    <string name="votreage">Votre age : </string>
+
+</resources>
